@@ -58,3 +58,22 @@ Em JavaScript, os identificadores desempenham um papel fundamental na criação 
 - Identificadores em JavaScript podem começar com letras (maiúsculas ou minúsculas), o caractere "$" ou o sublinhado "_".
 - Não é permitido começar identificadores com números.
 
+#### Caracteres Permitidos
+
+- É possível usar letras, números, acentos e símbolos na composição de um identificador.
+- No entanto, espaços não são permitidos em identificadores.
+
+#### Palavras Reservadas
+
+- Identificadores não podem ser palavras reservadas da linguagem JavaScript. Palavras reservadas, como "var," "function," "if," entre outras, têm significados específicos na linguagem e não podem ser usadas como nomes de variáveis ou funções.
+
+### Boas Práticas para Escolher Identificadores
+
+Ao criar identificadores em JavaScript, é importante seguir boas práticas para manter seu código limpo e legível. Algumas dicas úteis incluem:
+
+- **Escolher Nomes Coerentes:** Opte por nomes que descrevam com precisão o propósito do identificador. Por exemplo, se estiver criando uma variável para armazenar a idade de uma pessoa, "idade" é um nome mais descritivo do que "x."
+
+- **Utilizar Letras Minúsculas:** Convenção amplamente aceita é usar letras minúsculas para nomes de variáveis e funções. Para nomes compostos, utilize a notação camelCase (por exemplo, "idadeDaPessoa").
+
+- **Manter a Consistência:** Mantenha um padrão consistente ao longo de seu código. Se começou a usar camelCase para nomes de variáveis, continue a fazê-lo em todo o código.
+
