@@ -46,3 +46,15 @@ JavaScript é usado para uma ampla variedade de finalidades:
 
 JavaScript é uma linguagem de programação essencial para o desenvolvimento web moderno. Sua versatilidade, facilidade de aprendizado e ampla aceitação fazem dela uma escolha valiosa para a criação de sites interativos e aplicativos web. No entanto, é importante estar ciente das questões de segurança e desempenho ao utilizá-la e seguir as melhores práticas de programação para aproveitar ao máximo seu potencial.
 
+## **2. Identificadores em JavaScript: Regras e Boas Práticas**
+
+
+Em JavaScript, os identificadores desempenham um papel fundamental na criação de variáveis, funções e objetos. Eles são os nomes dados aos elementos do código que os desenvolvedores utilizam para tornar seus programas legíveis e funcionais. No entanto, existem regras específicas que devem ser seguidas ao criar identificadores em JavaScript. Neste documento, exploraremos as regras essenciais e ofereceremos dicas para escolher identificadores significativos.
+
+### Regras para Identificadores em JavaScript
+
+#### Início dos Identificadores
+
+- Identificadores em JavaScript podem começar com letras (maiúsculas ou minúsculas), o caractere "$" ou o sublinhado "_".
+- Não é permitido começar identificadores com números.
+
