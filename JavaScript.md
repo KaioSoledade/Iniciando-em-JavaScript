@@ -77,3 +77,11 @@ Ao criar identificadores em JavaScript, é importante seguir boas práticas para
 
 - **Manter a Consistência:** Mantenha um padrão consistente ao longo de seu código. Se começou a usar camelCase para nomes de variáveis, continue a fazê-lo em todo o código.
 
+- **Evitar Abreviações Obscuras:** Evite abreviações que possam não ser claras para outros desenvolvedores. Escolher nomes descritivos ajuda na compreensão do código.
+
+- **Ser Consciente da Legibilidade:** Lembre-se de que outros desenvolvedores podem precisar entender e manter seu código. Priorize nomes que tornem o código mais fácil de ler.
+
+### Conclusão
+
+As regras e boas práticas para identificadores em JavaScript são fundamentais para criar código limpo e funcional. Ao seguir as regras de nomenclatura e escolher nomes significativos e descritivos, você tornará seu código mais compreensível e colaborativo, facilitando a manutenção e o desenvolvimento de projetos JavaScript.
+
