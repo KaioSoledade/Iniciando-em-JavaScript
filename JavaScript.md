@@ -114,3 +114,7 @@ Os operadores `===` (estritamente igual a) e `!==` (estritamente diferente de) t
 - `5 == '5'` retorna `true` (não observa o tipo, ambos são considerados iguais).
 - `5 === '5'` retorna `false` (observa o tipo, são de tipos diferentes).
 
+### Conclusão
+
+Os operadores relacionais em JavaScript são fundamentais para a criação de lógica e tomada de decisões em programas. É importante entender as diferenças entre os operadores que consideram o tipo de dado (`===`, `!==`) e os que não consideram (`==`, `!=`). Esses operadores permitem que os desenvolvedores realizem comparações de forma eficaz e precisa, tornando o código mais robusto e confiável. Portanto, dominar o uso desses operadores é uma habilidade valiosa para programadores JavaScript.
+
