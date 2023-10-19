@@ -99,3 +99,18 @@ Os operadores `<` (menos que) e `>` (maior que) são usados para comparar dois v
 - `8 >= 8` retorna `true` (8 é maior ou igual a 8).
 - `9 <= 7` retorna `false` (9 não é menor ou igual a 7).
 
+### Operadores `==` e `!=`
+
+Os operadores `==` (igual a) e `!=` (diferente de) comparam valores, ignorando o tipo de dado. Eles verificam se os valores são iguais ou diferentes, independentemente de serem do mesmo tipo. Exemplos:
+
+- `5 == 5` retorna `true` (5 é igual a 5).
+- `4 != 4` retorna `false` (4 não é diferente de 4).
+
+### Operadores `===` e `!==`
+
+Os operadores `===` (estritamente igual a) e `!==` (estritamente diferente de) também comparam valores, mas levam em consideração o tipo de dado. Eles verificam se os valores são iguais ou diferentes e se são do mesmo tipo. Exemplos:
+
+- `5 === 5` retorna `true` (5 é estritamente igual a 5).
+- `5 == '5'` retorna `true` (não observa o tipo, ambos são considerados iguais).
+- `5 === '5'` retorna `false` (observa o tipo, são de tipos diferentes).
+
