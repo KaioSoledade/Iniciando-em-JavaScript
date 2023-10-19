@@ -85,3 +85,17 @@ Ao criar identificadores em JavaScript, é importante seguir boas práticas para
 
 As regras e boas práticas para identificadores em JavaScript são fundamentais para criar código limpo e funcional. Ao seguir as regras de nomenclatura e escolher nomes significativos e descritivos, você tornará seu código mais compreensível e colaborativo, facilitando a manutenção e o desenvolvimento de projetos JavaScript.
 
+## **3. Operadores Relacionais em JavaScript**
+
+
+Os operadores relacionais em JavaScript são utilizados para comparar valores e determinar as relações entre eles. Neste documento, exploraremos os operadores relacionais `<` (menos que) e `>` (maior que), bem como outros operadores de comparação, como `<=`, `>=`, `==`, `!=`, `===` e `!==`. Entender o funcionamento desses operadores é fundamental para o desenvolvimento de lógica e tomada de decisões em programas JavaScript.
+
+### Operadores `<` e `>`
+
+Os operadores `<` (menos que) e `>` (maior que) são usados para comparar dois valores e determinar se o valor à esquerda é menor ou maior que o valor à direita, respectivamente. Os resultados dessas comparações são booleanos, ou seja, `true` (verdadeiro) ou `false` (falso). Veja exemplos:
+
+- `5 >= 2` retorna `true` (5 é maior ou igual a 2).
+- `7 <= 4` retorna `false` (7 não é menor ou igual a 4).
+- `8 >= 8` retorna `true` (8 é maior ou igual a 8).
+- `9 <= 7` retorna `false` (9 não é menor ou igual a 7).
+
