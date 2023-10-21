@@ -135,3 +135,30 @@ if (condição) {
 
 A condição deve ser uma expressão que pode ser avaliada como verdadeira ou falsa (booleana). Se a condição for verdadeira, o bloco de código dentro do "if" será executado; caso contrário, ele será ignorado.
 
+### A Declaração "else"
+
+A declaração "else" pode ser usada em conjunto com "if" para fornecer um bloco alternativo de código que será executado se a condição no "if" for falsa. A sintaxe de "if" e "else" é a seguinte:
+
+```javascript
+if (condição) {
+  // Bloco de código a ser executado se a condição for verdadeira
+} else {
+  // Bloco de código a ser executado se a condição for falsa
+}
+```
+
+Com a adição de "else," o programa tem a capacidade de executar diferentes blocos de código com base na avaliação da condição.
+
+### Exemplos Práticos
+
+#### Exemplo 1: Verificação de Idade
+
+```javascript
+let idade = 18;
+
+if (idade >= 18) {
+  console.log("Pode votar.");
+} else {
+  console.log("Não pode votar.");
+}
+```
