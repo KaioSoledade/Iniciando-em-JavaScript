@@ -118,3 +118,20 @@ Os operadores `===` (estritamente igual a) e `!==` (estritamente diferente de) t
 
 Os operadores relacionais em JavaScript são fundamentais para a criação de lógica e tomada de decisões em programas. É importante entender as diferenças entre os operadores que consideram o tipo de dado (`===`, `!==`) e os que não consideram (`==`, `!=`). Esses operadores permitem que os desenvolvedores realizem comparações de forma eficaz e precisa, tornando o código mais robusto e confiável. Portanto, dominar o uso desses operadores é uma habilidade valiosa para programadores JavaScript.
 
+## **4. Usando Condicionais "if" e "else" em JavaScript**
+
+
+Em JavaScript, condicionais "if" e "else" são estruturas fundamentais que permitem controlar o fluxo de um programa. Com essas estruturas, é possível criar lógica de decisão, onde o programa toma decisões com base em condições específicas. Neste documento, exploraremos o uso de "if" e "else" em JavaScript e como essas estruturas podem ser aplicadas em situações do mundo real.
+
+### A Declaração "if"
+
+A declaração "if" é uma estrutura de controle de fluxo que permite executar um bloco de código se uma condição for verdadeira. A sintaxe básica de "if" é a seguinte:
+
+```javascript
+if (condição) {
+  // Bloco de código a ser executado se a condição for verdadeira
+}
+```
+
+A condição deve ser uma expressão que pode ser avaliada como verdadeira ou falsa (booleana). Se a condição for verdadeira, o bloco de código dentro do "if" será executado; caso contrário, ele será ignorado.
+
