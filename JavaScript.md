@@ -162,3 +162,24 @@ if (idade >= 18) {
   console.log("Não pode votar.");
 }
 ```
+
+Neste exemplo, o programa verifica a idade e imprime uma mensagem adequada com base na condição.
+
+#### Exemplo 2: Verificação de Número Par ou Ímpar
+
+```javascript
+let numero = 7;
+
+if (numero % 2 === 0) {
+  console.log("É um número par.");
+} else {
+  console.log("É um número ímpar.");
+}
+```
+
+Neste caso, o programa determina se um número é par ou ímpar e exibe a mensagem apropriada.
+
+### Conclusão
+
+As declarações "if" e "else" são fundamentais para criar lógica de decisão em JavaScript. Elas permitem que os desenvolvedores controlem o fluxo de um programa com base em condições específicas. Ao dominar o uso dessas estruturas, é possível criar scripts mais flexíveis e adaptáveis, capazes de responder a uma variedade de cenários no desenvolvimento de software.
+
