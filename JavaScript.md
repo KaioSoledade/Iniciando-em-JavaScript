@@ -199,3 +199,28 @@ if (condição1 && condição2) {
 }
 ```
 
+#### Exemplo:
+
+```javascript
+let idade = 25;
+let possuiCNH = true;
+
+if (idade >= 18 && possuiCNH) {
+  console.log("Pode dirigir um carro.");
+} else {
+  console.log("Não pode dirigir um carro.");
+}
+```
+
+Neste exemplo, o código verifica se a idade é maior ou igual a 18 **e** se a pessoa possui uma carteira de motorista. Ambas as condições devem ser verdadeiras para permitir a condução de um carro.
+
+### Operador "OU" Lógico (||)
+
+O operador "OU" lógico, representado pelo símbolo "||," retorna verdadeiro (true) se **pelo menos uma** das condições for verdadeira. A sintaxe é a seguinte:
+
+```javascript
+if (condição1 || condição2) {
+  // Bloco de código a ser executado se pelo menos uma das condições for verdadeira
+}
+```
+
