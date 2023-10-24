@@ -183,3 +183,19 @@ Neste caso, o programa determina se um número é par ou ímpar e exibe a mensag
 
 As declarações "if" e "else" são fundamentais para criar lógica de decisão em JavaScript. Elas permitem que os desenvolvedores controlem o fluxo de um programa com base em condições específicas. Ao dominar o uso dessas estruturas, é possível criar scripts mais flexíveis e adaptáveis, capazes de responder a uma variedade de cenários no desenvolvimento de software.
 
+## **5. Operadores Lógicos em JavaScript**
+
+
+
+Os operadores lógicos em JavaScript são ferramentas essenciais para criar lógica condicional e tomar decisões com base em condições específicas. Eles permitem que você combine e avalie expressões booleanas, tornando o código mais dinâmico e adaptável. Neste documento, exploraremos os principais operadores lógicos em JavaScript e como usá-los para criar decisões complexas em seu código.
+
+### Operador "E" Lógico (&&)
+
+O operador "E" lógico, representado pelo símbolo "&&," retorna verdadeiro (true) se **ambas** as condições forem verdadeiras. A sintaxe é a seguinte:
+
+```javascript
+if (condição1 && condição2) {
+  // Bloco de código a ser executado se ambas as condições forem verdadeiras
+}
+```
+
