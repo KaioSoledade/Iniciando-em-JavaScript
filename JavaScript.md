@@ -224,3 +224,40 @@ if (condição1 || condição2) {
 }
 ```
 
+#### Exemplo:
+
+```javascript
+let éEstudante = true;
+let éFuncionário = false;
+
+if (éEstudante || éFuncionário) {
+  console.log("Tem desconto no restaurante.");
+} else {
+  console.log("Não tem desconto no restaurante.");
+}
+```
+
+Neste exemplo, o código verifica se a pessoa é estudante **ou** funcionária para conceder um desconto no restaurante.
+
+### Operador "NÃO" Lógico (!)
+
+O operador "NÃO" lógico, representado pelo símbolo "!", inverte o valor de uma expressão booleana. Se a expressão for verdadeira, o operador "NÃO" a tornará falsa e vice-versa.
+
+#### Exemplo:
+
+```javascript
+let temPermissão = false;
+
+if (!temPermissão) {
+  console.log("Acesso negado.");
+} else {
+  console.log("Acesso concedido.");
+}
+```
+
+Neste exemplo, o código inverte o valor da variável "temPermissão" para determinar se o acesso é concedido ou negado.
+
+### Conclusão
+
+Os operadores lógicos "E," "OU" e "NÃO" são poderosas ferramentas em JavaScript para criar decisões complexas e controlar o fluxo do programa com base em condições. Ao compreender como esses operadores funcionam e como combiná-los, você pode desenvolver códigos mais flexíveis e adaptáveis, capazes de lidar com uma variedade de cenários e situações em suas aplicações.
+
