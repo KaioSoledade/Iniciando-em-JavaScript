@@ -310,3 +310,7 @@ let resto = 10 % 3; // O valor de "resto" será 1
 
 É importante observar que os operadores aritméticos seguem uma ordem de precedência, semelhante à matemática convencional. Multiplicação e divisão têm precedência sobre adição e subtração, mas você pode usar parênteses para controlar a ordem das operações.
 
+### Conclusão
+
+Os operadores aritméticos são componentes fundamentais para realizar cálculos matemáticos em JavaScript. Eles são amplamente usados em programas para resolver uma variedade de problemas, desde cálculos simples até operações mais complexas. Compreender como esses operadores funcionam e como aplicá-los em seu código é essencial para o desenvolvimento de aplicativos e scripts eficazes.
+
