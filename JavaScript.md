@@ -290,3 +290,23 @@ O operador de multiplicação, representado pelo símbolo "*", é usado para mul
 let produto = 4 * 6; // O valor de "produto" será 24
 ```
 
+### Operador de Divisão (/)
+
+O operador de divisão, representado pelo símbolo "/", é usado para dividir um valor por outro. Ele também funciona com números inteiros e números de ponto flutuante. Veja um exemplo:
+
+```javascript
+let quociente = 15 / 3; // O valor de "quociente" será 5
+```
+
+### Operador de Resto (%)
+
+O operador de resto, representado pelo símbolo "%," é usado para obter o resto de uma divisão. É útil para verificar se um número é divisível por outro. Exemplo:
+
+```javascript
+let resto = 10 % 3; // O valor de "resto" será 1
+```
+
+### Ordem de Precedência
+
+É importante observar que os operadores aritméticos seguem uma ordem de precedência, semelhante à matemática convencional. Multiplicação e divisão têm precedência sobre adição e subtração, mas você pode usar parênteses para controlar a ordem das operações.
+
