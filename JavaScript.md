@@ -274,3 +274,19 @@ O operador de adição, representado pelo símbolo "+," é usado para somar valo
 let soma = 5 + 3; // O valor de "soma" será 8
 ```
 
+### Operador de Subtração (-)
+
+O operador de subtração, representado pelo símbolo "-," é usado para subtrair um valor de outro. Ele também funciona com números inteiros e números de ponto flutuante. Veja um exemplo:
+
+```javascript
+let diferenca = 10 - 3; // O valor de "diferenca" será 7
+```
+
+### Operador de Multiplicação (*)
+
+O operador de multiplicação, representado pelo símbolo "*", é usado para multiplicar valores. Mais uma vez, ele funciona com números inteiros e de ponto flutuante. Aqui está um exemplo:
+
+```javascript
+let produto = 4 * 6; // O valor de "produto" será 24
+```
+
