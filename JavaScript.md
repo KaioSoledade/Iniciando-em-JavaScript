@@ -261,3 +261,16 @@ Neste exemplo, o código inverte o valor da variável "temPermissão" para deter
 
 Os operadores lógicos "E," "OU" e "NÃO" são poderosas ferramentas em JavaScript para criar decisões complexas e controlar o fluxo do programa com base em condições. Ao compreender como esses operadores funcionam e como combiná-los, você pode desenvolver códigos mais flexíveis e adaptáveis, capazes de lidar com uma variedade de cenários e situações em suas aplicações.
 
+## **6. Operadores Aritméticos em JavaScript**
+
+
+Os operadores aritméticos em JavaScript são usados para realizar operações matemáticas em valores. Eles são fundamentais para cálculos e manipulações numéricas em programas JavaScript. Neste documento, exploraremos os principais operadores aritméticos, suas funcionalidades e exemplos de uso.
+
+### Operador de Adição (+)
+
+O operador de adição, representado pelo símbolo "+," é usado para somar valores. Ele pode ser aplicado a números inteiros, números de ponto flutuante e até mesmo strings. Aqui está um exemplo:
+
+```javascript
+let soma = 5 + 3; // O valor de "soma" será 8
+```
+
