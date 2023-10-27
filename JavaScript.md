@@ -328,3 +328,16 @@ A estrutura do operador ternário é a seguinte:
 condição ? valorSeVerdadeiro : valorSeFalso;
 ```
 
+### Sintaxe e Uso
+
+O operador ternário avalia a condição primeiro. Se a condição for verdadeira, ele retorna o valor após o ponto de interrogação ("?"); caso contrário, retorna o valor após os dois-pontos (":").
+
+#### Exemplo 1: Verificando Se um Número é Par ou Ímpar
+
+```javascript
+let numero = 7;
+let resultado = numero % 2 === 0 ? "Par" : "Ímpar";
+```
+
+Neste exemplo, o valor da variável "resultado" será "Ímpar," já que o número 7 é ímpar.
+
