@@ -341,3 +341,20 @@ let resultado = numero % 2 === 0 ? "Par" : "Ímpar";
 
 Neste exemplo, o valor da variável "resultado" será "Ímpar," já que o número 7 é ímpar.
 
+#### Exemplo 2: Verificando Se um Usuário Está Logado
+
+```javascript
+let estáLogado = true;
+let mensagem = estáLogado ? "Bem-vindo!" : "Faça login para continuar.";
+```
+
+Neste caso, a variável "mensagem" conterá "Bem-vindo!" se o usuário estiver logado; caso contrário, conterá "Faça login para continuar."
+
+### Vantagens do Operador Ternário
+
+- **Legibilidade:** O operador ternário pode tornar o código mais conciso e legível, especialmente para decisões simples.
+
+- **Eficiência:** Como é uma única linha de código, pode ser mais eficiente em termos de desempenho em comparação com blocos "if...else."
+
+- **Sintaxe Clara:** Ele destaca a intenção de atribuição com base em condição de forma clara e direta.
+
