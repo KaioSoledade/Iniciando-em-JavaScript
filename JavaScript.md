@@ -314,3 +314,17 @@ let resto = 10 % 3; // O valor de "resto" será 1
 
 Os operadores aritméticos são componentes fundamentais para realizar cálculos matemáticos em JavaScript. Eles são amplamente usados em programas para resolver uma variedade de problemas, desde cálculos simples até operações mais complexas. Compreender como esses operadores funcionam e como aplicá-los em seu código é essencial para o desenvolvimento de aplicativos e scripts eficazes.
 
+## **7. Operador Ternário em JavaScript**
+
+O operador ternário em JavaScript é uma forma compacta e eficaz de expressar uma decisão com base em uma condição. Ele permite que você realize uma operação condicional em uma única linha de código. Neste documento, exploraremos o operador ternário em JavaScript, seu uso, sintaxe e exemplos práticos.
+
+### O Que é o Operador Ternário?
+
+O operador ternário, também conhecido como operador condicional, é uma alternativa concisa à instrução "if...else." Ele é frequentemente usado quando você precisa tomar uma decisão simples e atribuir um valor com base em uma condição.
+
+A estrutura do operador ternário é a seguinte:
+
+```javascript
+condição ? valorSeVerdadeiro : valorSeFalso;
+```
+
