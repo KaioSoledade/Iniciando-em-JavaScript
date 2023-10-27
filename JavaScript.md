@@ -358,3 +358,11 @@ Neste caso, a variável "mensagem" conterá "Bem-vindo!" se o usuário estiver l
 
 - **Sintaxe Clara:** Ele destaca a intenção de atribuição com base em condição de forma clara e direta.
 
+### Limitações
+
+O operador ternário é mais adequado para decisões simples. Quando as condições se tornam complexas, pode ser mais apropriado usar uma instrução "if...else" para manter a clareza do código.
+
+### Conclusão
+
+O operador ternário em JavaScript é uma ferramenta útil para expressar decisões condicionais de forma concisa. Ele é amplamente usado em situações em que a lógica condicional é simples e direta. Ao compreender a sintaxe e as vantagens desse operador, você pode tornar seu código mais eficiente e legível.
+
