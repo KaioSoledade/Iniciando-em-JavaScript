@@ -366,3 +366,18 @@ O operador ternário é mais adequado para decisões simples. Quando as condiç�
 
 O operador ternário em JavaScript é uma ferramenta útil para expressar decisões condicionais de forma concisa. Ele é amplamente usado em situações em que a lógica condicional é simples e direta. Ao compreender a sintaxe e as vantagens desse operador, você pode tornar seu código mais eficiente e legível.
 
+## **8. Operadores de Atribuição em JavaScript**
+
+
+Os operadores de atribuição em JavaScript são utilizados para atribuir valores a variáveis. Eles desempenham um papel fundamental na manipulação de variáveis e no armazenamento de dados em seus programas. Neste documento, exploraremos os principais operadores de atribuição em JavaScript, como eles funcionam e como podem ser aplicados em situações do mundo real.
+
+### Operador de Atribuição Simples (=)
+
+O operador de atribuição simples, representado pelo sinal de igual (=), é usado para atribuir um valor a uma variável. A sintaxe é a seguinte:
+
+```javascript
+let nome = "João";
+```
+
+Neste exemplo, o valor "João" é atribuído à variável "nome."
+
