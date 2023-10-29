@@ -394,3 +394,22 @@ JavaScript também oferece operadores de atribuição combinada, que são uma fo
   contador += 2; // Agora, contador é igual a 7
   ```
 
+- **Operador de Subtração e Atribuição (-=):** Subtrai um valor de uma variável existente.
+
+- **Operador de Multiplicação e Atribuição (*=):** Multiplica uma variável por um valor.
+
+- **Operador de Divisão e Atribuição (/=):** Divide uma variável por um valor.
+
+- **Operador de Módulo e Atribuição (%=):** Calcula o módulo de uma variável em relação a um valor e atribui o resultado.
+
+### Operadores de Incremento e Decremento
+
+JavaScript também fornece operadores de incremento (++) e decremento (--), que são usados para aumentar ou diminuir o valor de uma variável em uma unidade.
+
+Exemplo:
+
+```javascript
+let contador = 5;
+contador++; // Agora, contador é igual a 6
+```
+
