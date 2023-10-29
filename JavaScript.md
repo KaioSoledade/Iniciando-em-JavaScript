@@ -381,3 +381,16 @@ let nome = "João";
 
 Neste exemplo, o valor "João" é atribuído à variável "nome."
 
+### Operadores de Atribuição Combinada
+
+JavaScript também oferece operadores de atribuição combinada, que são uma forma concisa de realizar uma operação e, ao mesmo tempo, atribuir o resultado a uma variável. Alguns dos operadores de atribuição combinada mais comuns são:
+
+- **Operador de Adição e Atribuição (+=):** Adiciona um valor a uma variável existente.
+
+  Exemplo:
+
+  ```javascript
+  let contador = 5;
+  contador += 2; // Agora, contador é igual a 7
+  ```
+
