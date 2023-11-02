@@ -413,3 +413,7 @@ let contador = 5;
 contador++; // Agora, contador é igual a 6
 ```
 
+### Conclusão
+
+Os operadores de atribuição em JavaScript são ferramentas fundamentais para a manipulação de variáveis e o armazenamento de dados. Eles permitem que você realize operações matemáticas, atualize variáveis de forma eficiente e controle o fluxo de seu programa. Ao compreender como esses operadores funcionam e como aplicá-los em seu código, você pode criar scripts mais eficazes e dinâmicos.
+
